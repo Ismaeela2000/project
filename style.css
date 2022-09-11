@@ -1,0 +1,46 @@
+body{
+text-align: center;
+}
+#welcome{
+background: linear-gradient(#FF3003 0%,#03CEFF 100% ) ;
+}
+.profile{
+border-radius: 50%;
+padding-top: 20px;
+}
+.line{
+height: 6px;
+background-color:black;
+width: 70px;
+margin:8px auto ;
+}
+.menu{
+list-style: none;
+position:absolute;
+top: 10px;
+right: 7px;
+z-index:10;
+cursor:grab;
+}
+.links{
+padding-top:5px;
+float: left;
+padding-left: 5px;
+padding-bottom: 5px;
+padding-right:15px ;
+font-size:25px ;
+}
+#name{
+    font-family: 'Qwitcher Grypen', cursive;
+    font-size: 70px;
+}
+#bio{
+    font-family: 'Lobster', cursive;
+}
+.contact{
+    width: 100%;
+
+}
+#contacts{
+    background-color: greenyellow;
+}
